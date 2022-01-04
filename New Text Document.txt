@@ -1,3 +1,5 @@
 Hi,
 
 This is a first commit
+
+Adding one more line for conflict action
