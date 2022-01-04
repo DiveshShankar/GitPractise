@@ -2,4 +2,8 @@ Hi,
 
 This is a first commit
 
+
 This line is from desktop
+
+Adding one more line for conflict action
+
